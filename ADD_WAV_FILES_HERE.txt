@@ -1,0 +1,3 @@
+Copy actual compatible PCM WAV recordings into this folder before uploading LittleFS.
+Required names: collision_guard_warning.wav, door_guard_warning.wav, accident_guard_warning.wav, gps_status.wav
+The recordings were not available to include in this ZIP. See README for details.
